@@ -1,0 +1,15 @@
+{
+  "name": "import-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "babel-node src/index.js",
+    "build": "babel src -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
